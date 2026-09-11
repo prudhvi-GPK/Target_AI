@@ -1,5 +1,5 @@
 # Python Functions, Arguments, Lambda & Comprehensions
-*A 1-hour focused study guide — designed to read, run, and commit to GitHub.*
+*A 1-hour focused study guide — designed to read, run.*
 
 ---
 
@@ -290,15 +290,4 @@ f = lambda x, y=1: x + y
 
 ---
 
-## 8. How to Use This on GitHub
 
-```bash
-git init
-git add python-functions-lambda-comprehensions.md
-git commit -m "Add Python functions/lambda/comprehensions study notes"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
-Rename the file to `README.md` if you want it to render as the repo's landing page.
